@@ -1,0 +1,2 @@
+module Scala_Assignment {
+}
